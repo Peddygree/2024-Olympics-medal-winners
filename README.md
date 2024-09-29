@@ -1,4 +1,4 @@
-# 2024-Olympics-medal-winners
+# 2024 Olympics medal winners
 
 ### Table of Contents
 - [Data Source](#data-source)
